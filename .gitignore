@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Ignore CLion user-specific files
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+.DS_Store
