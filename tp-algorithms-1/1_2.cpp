@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+В теме письма: [TP] Nikolay.Bienko m1.1_2
+Run ID.
+1_2.cpp
+*/
+
 void factorize(int num) {
     int num_tmp = num;
 

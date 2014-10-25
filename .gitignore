@@ -28,7 +28,7 @@
 *.app
 
 # Ignore CLion user-specific files
-.idea/*
+**/.idea/*
 *.iml
 *.ipr
 *.iws
